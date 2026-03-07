@@ -41,5 +41,9 @@ st.subheader("Predicted House Price of Unit Area:")
 st.write("$",round(prediction[0], 2))
 
 
+st.markdown("Check out the github repository (https://github.com/VikramVadhirajan/House_Price_Prediction)")
+
+
+
 
 
